@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1040525255136",
+    "firebase_url": "https://gadatech-d0d26.firebaseio.com",
+    "project_id": "gadatech-d0d26",
+    "storage_bucket": "gadatech-d0d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040525255136:android:d4511de48a06fccc",
+        "android_client_info": {
+          "package_name": "com.example.genericapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040525255136-ckbalckj8p7mur86gji9ij9nji24h9le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genericapp",
+            "certificate_hash": "6cd3ae603ee1cdfe71524c9fa7f8bb4e902bf2e8"
+          }
+        },
+        {
+          "client_id": "1040525255136-5o549cefmpm69r5kgq3got3oa7opejva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjVydX9mr3oiuIYA0s6AHWO4GKN5NWAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040525255136-5o549cefmpm69r5kgq3got3oa7opejva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
